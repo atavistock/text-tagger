@@ -1,0 +1,18 @@
+---
+"*LCB*": { lrb: 248 }
+left_bracket: { lrb: 1424 }
+number: { ls: 43, cd: 29669, nnp: 19, nnps: 1, ppc: 1, jj: 1, nn: 2, nns: 126, vbn: 1 }
+ordinal: { cd: 7, nnp: 26, jj: 87, nn: 6 }
+"*RCB*": { rrb: 251 }
+right_bracket: { rrb: 1438 }
+abbreviation: { nnp: 1000 }
+capitalized_word: { nnp: 900, nn: 48, nns: 48, vbg: 2, vbz: 2 }
+ed_suffix: { vbn: 300, nn: 300, jj: 200, vbd: 200 }
+hyphen: { jj: 530, nn: 470 }
+hyphen_adjuctive: { jj: 850, nn: 150 }
+ing_suffix: { vbg: 800, jj: 180, nnp: 10, nn: 10 }
+ly_suffix: { rb: 900, jj: 100 }
+s_suffix: { nnp: 48, nn: 48, nns: 900, vbg: 2, vbz: 2 }
+symbol: { sym: 1000 }
+tion_suffix: { nn: 950, nnp: 50 }
+unknown: { nn: 875, jj: 195, nns: 20, vbz: 10 }
