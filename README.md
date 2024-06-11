@@ -131,15 +131,10 @@ The set of POS tags used here is a modified version of the Penn Treebank tagset.
 
 ### Author
 
-of this Ruby library
+Based on [Engtager](https://github.com/yohasebe/engtagger) port of Lingua::EN::Tagger
+writte by Yoichiro Hasebe (yohasebe [at] gmail.com)
 
-* Yoichiro Hasebe (yohasebe [at] gmail.com)
-
-### Contributors
-
-* Carlos Ramirez III
-* Phil London
-* Bazay (Baron Bloomer)
+Modified to suit my needs
 
 ### Acknowledgement
 
